@@ -66,4 +66,6 @@ Este projeto é apenas para fins acadêmicos e não possui licença oficial.
 
 📞 Contato
 Autora: Dayane Pontes
+Autor: Rafael Sabino 
 GitHub: MissDayane
+GitHub: RafaelS4bino
