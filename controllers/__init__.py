@@ -1,0 +1,4 @@
+from .ColaboradorController import Colaborador_Controller
+from .MedicamentoController import medicamento_controller
+from .ClienteController import cliente_controller
+from .VendaController import venda_controller
